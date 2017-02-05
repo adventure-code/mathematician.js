@@ -19,8 +19,9 @@
   },
   "homepage": "https://github.com/adventure-code/mathematician.js#readme",
   "devDependencies": {
-    "gulp-concat": "2.6.0",
+    "chai": "^3.5.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "2.6.0",
     "gulp-uglify": "^1.5.1",
     "mocha": "^3.1.0"
   }
